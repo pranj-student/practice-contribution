@@ -1,4 +1,4 @@
-# Introduce yourself
+mi# Introduce yourself
 
 1. fork this repo
 2. clone forked repo locally
@@ -93,3 +93,4 @@
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 
 # Introduction to new batch 27-Dec-2025
+-Pranjal Pinto , 'Python' , 'Sql, , Microsoft Power Bi , Python Libraries ' Data science 
